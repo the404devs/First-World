@@ -131,15 +131,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2017-10-14 13:28:56 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2017-10-14 13:28:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2017-10-14 13:28:56 -0400"
     },
     "done": true
   },
@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2018-11-17 12:11:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2018-10-09 17:08:37 -0400"
@@ -218,12 +224,6 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2017-10-14 13:28:56 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
-    "criteria": {
-      "has_bonemeal": "2017-10-22 16:08:13 -0400"
     },
     "done": true
   },
@@ -326,12 +326,6 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2018-09-19 21:20:21 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_bonemeal": "2017-10-22 16:08:13 -0400"
     },
     "done": true
   },
@@ -566,28 +560,28 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2018-09-18 19:59:00 -0400",
-      "minecraft:polar_bear": "2017-10-21 14:32:36 -0400",
       "minecraft:skeleton": "2018-01-05 16:50:10 -0500",
+      "minecraft:zombie_pigman": "2018-09-16 12:29:23 -0400",
+      "minecraft:ghast": "2018-09-23 18:37:12 -0400",
+      "minecraft:guardian": "2018-05-20 14:39:07 -0400",
+      "minecraft:vindicator": "2018-05-20 14:35:39 -0400",
+      "minecraft:magma_cube": "2018-09-16 12:33:53 -0400",
+      "minecraft:spider": "2017-10-21 13:41:27 -0400",
+      "minecraft:creeper": "2017-10-14 13:31:24 -0400",
+      "minecraft:slime": "2018-05-04 14:00:06 -0400",
+      "minecraft:evoker": "2018-05-20 16:19:28 -0400",
+      "minecraft:polar_bear": "2017-10-21 14:32:36 -0400",
       "minecraft:phantom": "2018-10-03 15:21:10 -0400",
       "minecraft:witch": "2018-09-21 20:39:25 -0400",
       "minecraft:wither_skeleton": "2018-09-23 18:58:06 -0400",
-      "minecraft:zombie_pigman": "2018-09-16 12:29:23 -0400",
       "minecraft:husk": "2018-05-20 16:19:05 -0400",
-      "minecraft:ghast": "2018-09-23 18:37:12 -0400",
       "minecraft:shulker": "2017-12-03 16:08:18 -0500",
-      "minecraft:guardian": "2018-05-20 14:39:07 -0400",
       "minecraft:stray": "2018-05-20 14:37:48 -0400",
-      "minecraft:vindicator": "2018-05-20 14:35:39 -0400",
       "minecraft:enderman": "2018-03-31 15:21:32 -0400",
       "minecraft:silverfish": "2018-09-30 13:23:21 -0400",
-      "minecraft:magma_cube": "2018-09-16 12:33:53 -0400",
-      "minecraft:spider": "2017-10-21 13:41:27 -0400",
       "minecraft:zombie": "2018-01-05 15:09:13 -0500",
       "minecraft:drowned": "2018-09-21 20:39:18 -0400",
-      "minecraft:creeper": "2017-10-14 13:31:24 -0400",
-      "minecraft:zombie_villager": "2017-10-21 14:11:43 -0400",
-      "minecraft:slime": "2018-05-04 14:00:06 -0400",
-      "minecraft:evoker": "2018-05-20 16:19:28 -0400"
+      "minecraft:zombie_villager": "2017-10-21 14:11:43 -0400"
     },
     "done": false
   },
@@ -645,6 +639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2018-10-26 16:53:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2017-10-14 13:28:56 -0400"
@@ -699,12 +699,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/cyan_dye": {
-    "criteria": {
-      "has_lapis": "2018-05-20 16:16:59 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2018-09-19 21:18:23 -0400"
@@ -735,12 +729,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
-    "criteria": {
-      "has_lapis": "2018-05-20 16:16:59 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2018-01-05 15:34:45 -0500"
@@ -750,12 +738,6 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-01-05 15:34:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
-    "criteria": {
-      "has_bonemeal": "2017-10-22 16:08:13 -0400"
     },
     "done": true
   },
@@ -879,6 +861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2018-10-26 16:55:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2018-09-19 21:48:36 -0400"
@@ -924,6 +912,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2018-09-19 21:48:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2018-10-26 16:53:42 -0400"
     },
     "done": true
   },
@@ -1103,12 +1097,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_lapis": "2018-05-20 16:16:59 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2018-01-05 15:34:45 -0500"
@@ -1148,6 +1136,18 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2017-12-17 10:17:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2018-11-17 12:06:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2018-10-26 17:19:05 -0400"
     },
     "done": true
   },
@@ -1373,9 +1373,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sign": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_planks": "2017-10-14 13:28:56 -0400"
+      "has_bone_meal": "2018-11-17 12:09:35 -0500"
     },
     "done": true
   },
@@ -1544,15 +1544,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2017-10-14 13:28:56 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2017-10-14 13:28:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2017-10-14 13:28:56 -0400"
     },
     "done": true
   },
@@ -1582,8 +1582,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:ocelot": "2018-09-15 23:51:49 -0400",
       "minecraft:turtle": "2018-09-15 23:54:21 -0400",
+      "minecraft:ocelot": "2018-09-15 23:51:49 -0400",
       "minecraft:horse": "2018-09-16 00:08:37 -0400"
     },
     "done": false
@@ -1699,12 +1699,6 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2018-03-31 15:34:28 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
-    "criteria": {
-      "has_black_dye": "2017-10-14 13:28:56 -0400"
     },
     "done": true
   },
@@ -1978,21 +1972,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
-    "criteria": {
-      "has_bonemeal": "2018-08-14 11:15:53 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2018-02-07 13:38:25 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
-    "criteria": {
-      "has_bonemeal": "2017-10-22 16:08:13 -0400"
     },
     "done": true
   },
@@ -2017,6 +1999,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2018-09-23 18:56:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2018-11-17 12:06:42 -0500"
     },
     "done": true
   },
@@ -2481,5 +2469,6 @@
       "has_bed": "2018-08-21 10:34:15 -0400"
     },
     "done": true
-  }
+  },
+  "DataVersion": 1910
 }
