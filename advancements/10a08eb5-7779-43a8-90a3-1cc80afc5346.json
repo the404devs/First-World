@@ -568,17 +568,17 @@
       "minecraft:magma_cube": "2018-09-16 12:33:53 -0400",
       "minecraft:spider": "2017-10-21 13:41:27 -0400",
       "minecraft:creeper": "2017-10-14 13:31:24 -0400",
-      "minecraft:slime": "2018-05-04 14:00:06 -0400",
       "minecraft:evoker": "2018-05-20 16:19:28 -0400",
+      "minecraft:slime": "2018-05-04 14:00:06 -0400",
       "minecraft:polar_bear": "2017-10-21 14:32:36 -0400",
       "minecraft:phantom": "2018-10-03 15:21:10 -0400",
       "minecraft:witch": "2018-09-21 20:39:25 -0400",
       "minecraft:wither_skeleton": "2018-09-23 18:58:06 -0400",
       "minecraft:husk": "2018-05-20 16:19:05 -0400",
       "minecraft:shulker": "2017-12-03 16:08:18 -0500",
-      "minecraft:stray": "2018-05-20 14:37:48 -0400",
-      "minecraft:enderman": "2018-03-31 15:21:32 -0400",
       "minecraft:silverfish": "2018-09-30 13:23:21 -0400",
+      "minecraft:enderman": "2018-03-31 15:21:32 -0400",
+      "minecraft:stray": "2018-05-20 14:37:48 -0400",
       "minecraft:zombie": "2018-01-05 15:09:13 -0500",
       "minecraft:drowned": "2018-09-21 20:39:18 -0400",
       "minecraft:zombie_villager": "2017-10-21 14:11:43 -0400"
@@ -989,10 +989,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2018-10-06 10:27:27 -0400",
       "minecraft:jungle_edge": "2018-10-06 10:33:42 -0400",
-      "minecraft:forest": "2017-10-14 13:29:55 -0400",
+      "minecraft:cold_ocean": "2018-10-06 10:27:27 -0400",
       "minecraft:mountains": "2017-12-17 10:33:20 -0500",
+      "minecraft:forest": "2017-10-14 13:29:55 -0400",
       "minecraft:taiga": "2017-10-14 13:29:01 -0400",
       "minecraft:desert_hills": "2018-06-09 17:12:54 -0400",
       "minecraft:giant_tree_taiga": "2018-09-23 20:35:18 -0400",
@@ -1011,14 +1011,14 @@
       "minecraft:savanna_plateau": "2018-10-06 10:32:40 -0400",
       "minecraft:beach": "2017-10-14 13:37:13 -0400",
       "minecraft:dark_forest": "2018-05-27 15:55:31 -0400",
-      "minecraft:lukewarm_ocean": "2018-09-17 23:35:56 -0400",
       "minecraft:river": "2017-10-14 13:31:04 -0400",
+      "minecraft:lukewarm_ocean": "2018-09-17 23:35:56 -0400",
       "minecraft:snowy_taiga": "2018-10-06 15:50:09 -0400",
       "minecraft:birch_forest_hills": "2018-01-05 16:51:30 -0500",
       "minecraft:wooded_mountains": "2017-12-17 10:33:16 -0500",
       "minecraft:wooded_hills": "2018-06-02 14:22:03 -0400",
-      "minecraft:giant_tree_taiga_hills": "2018-09-23 20:31:28 -0400",
       "minecraft:stone_shore": "2017-12-17 10:33:40 -0500",
+      "minecraft:giant_tree_taiga_hills": "2018-09-23 20:31:28 -0400",
       "minecraft:swamp": "2017-10-14 13:31:30 -0400",
       "minecraft:savanna": "2018-09-29 13:22:25 -0400",
       "minecraft:plains": "2018-05-27 15:58:28 -0400"
@@ -2470,5 +2470,5 @@
     },
     "done": true
   },
-  "DataVersion": 1910
+  "DataVersion": 1916
 }
