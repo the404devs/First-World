@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2020-02-15 17:00:43 -0500"
+    },
+    "done": true
+  },
   "main:main/vwh": {
     "criteria": {
       "tick": "2019-12-14 17:37:30 -0500"
@@ -452,6 +458,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2019-07-20 17:43:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2020-02-14 17:33:19 -0500"
     },
     "done": true
   },
@@ -701,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword": {
+    "criteria": {
+      "has_netherite_ingot": "2020-02-14 17:35:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2018-09-15 18:27:43 -0400"
@@ -839,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2020-02-14 17:35:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2017-10-14 13:28:56 -0400"
@@ -967,6 +991,7 @@
       "minecraft:zombie_pigman": "2018-09-16 12:29:23 -0400",
       "minecraft:ravager": "2019-01-04 14:08:08 -0500",
       "minecraft:ghast": "2018-09-23 18:37:12 -0400",
+      "minecraft:hoglin": "2020-02-14 17:40:15 -0500",
       "minecraft:guardian": "2018-05-20 14:39:07 -0400",
       "minecraft:vindicator": "2018-05-20 14:35:39 -0400",
       "minecraft:magma_cube": "2018-09-16 12:33:53 -0400",
@@ -980,6 +1005,7 @@
       "minecraft:husk": "2018-05-20 16:19:05 -0400",
       "minecraft:shulker": "2017-12-03 16:08:18 -0500",
       "minecraft:cave_spider": "2019-10-30 20:43:18 -0400",
+      "minecraft:piglin": "2020-02-14 17:16:39 -0500",
       "minecraft:silverfish": "2018-09-30 13:23:21 -0400",
       "minecraft:enderman": "2018-03-31 15:21:32 -0400",
       "minecraft:stray": "2018-05-20 14:37:48 -0400",
@@ -1619,6 +1645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2020-02-16 13:11:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2017-10-14 14:04:05 -0400"
@@ -1807,6 +1839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe": {
+    "criteria": {
+      "has_netherite_ingot": "2020-02-14 17:35:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2019-04-22 11:43:05 -0400"
@@ -1945,6 +1983,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2019-04-23 12:05:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate": {
+    "criteria": {
+      "has_netherite_ingot": "2020-02-14 17:35:37 -0500"
     },
     "done": true
   },
@@ -2170,6 +2214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots": {
+    "criteria": {
+      "has_netherite_ingot": "2020-02-14 17:35:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-05-11 16:25:52 -0400"
@@ -2305,6 +2355,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2019-04-19 20:28:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe": {
+    "criteria": {
+      "has_netherite_ingot": "2020-02-14 17:35:37 -0500"
     },
     "done": true
   },
@@ -2886,6 +2942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel": {
+    "criteria": {
+      "has_netherite_ingot": "2020-02-14 17:35:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2019-03-30 17:31:46 -0400"
@@ -3067,6 +3129,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2019-05-11 16:27:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings": {
+    "criteria": {
+      "has_netherite_ingot": "2020-02-14 17:35:37 -0500"
     },
     "done": true
   },
@@ -3922,6 +3990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe": {
+    "criteria": {
+      "has_netherite_ingot": "2020-02-14 17:35:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2019-05-11 16:25:52 -0400"
@@ -4258,6 +4332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet": {
+    "criteria": {
+      "has_netherite_ingot": "2020-02-14 17:35:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2018-09-19 21:48:36 -0400"
@@ -4297,6 +4377,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2018-08-23 10:56:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2020-02-15 17:00:43 -0500"
     },
     "done": true
   },
@@ -4548,5 +4634,5 @@
     },
     "done": true
   },
-  "DataVersion": 2504
+  "DataVersion": 2506
 }
