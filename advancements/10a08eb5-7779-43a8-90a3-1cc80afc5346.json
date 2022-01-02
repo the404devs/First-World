@@ -4332,6 +4332,7 @@
       "textures/entity/cat/black.png": "2019-12-25 23:19:19 -0500",
       "textures/entity/cat/siamese.png": "2019-05-02 19:58:09 -0400",
       "textures/entity/cat/ragdoll.png": "2019-12-13 11:04:24 -0500",
+      "textures/entity/cat/persian.png": "2020-01-19 10:13:42 -0500",
       "textures/entity/cat/red.png": "2019-05-08 21:19:55 -0400",
       "textures/entity/cat/calico.png": "2019-11-01 20:46:56 -0400"
     },
@@ -4475,5 +4476,5 @@
     },
     "done": true
   },
-  "DataVersion": 2227
+  "DataVersion": 2229
 }
