@@ -2050,6 +2050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2020-02-01 15:56:23 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2019-05-31 15:36:45 -0400"
@@ -4476,5 +4482,5 @@
     },
     "done": true
   },
-  "DataVersion": 2229
+  "DataVersion": 2230
 }
