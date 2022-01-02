@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2019-12-17 16:59:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2017-12-09 14:49:54 -0500"
@@ -943,8 +949,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:blaze": "2018-09-18 19:59:00 -0400",
       "minecraft:pillager": "2019-01-07 12:20:07 -0500",
+      "minecraft:blaze": "2018-09-18 19:59:00 -0400",
       "minecraft:skeleton": "2018-01-05 16:50:10 -0500",
       "minecraft:zombie_pigman": "2018-09-16 12:29:23 -0400",
       "minecraft:ravager": "2019-01-04 14:08:08 -0500",
@@ -954,17 +960,17 @@
       "minecraft:magma_cube": "2018-09-16 12:33:53 -0400",
       "minecraft:spider": "2017-10-21 13:41:27 -0400",
       "minecraft:creeper": "2017-10-14 13:31:24 -0400",
-      "minecraft:slime": "2018-05-04 14:00:06 -0400",
       "minecraft:evoker": "2018-05-20 16:19:28 -0400",
+      "minecraft:slime": "2018-05-04 14:00:06 -0400",
       "minecraft:phantom": "2018-10-03 15:21:10 -0400",
       "minecraft:witch": "2018-09-21 20:39:25 -0400",
       "minecraft:wither_skeleton": "2018-09-23 18:58:06 -0400",
       "minecraft:husk": "2018-05-20 16:19:05 -0400",
       "minecraft:shulker": "2017-12-03 16:08:18 -0500",
       "minecraft:cave_spider": "2019-10-30 20:43:18 -0400",
-      "minecraft:stray": "2018-05-20 14:37:48 -0400",
-      "minecraft:enderman": "2018-03-31 15:21:32 -0400",
       "minecraft:silverfish": "2018-09-30 13:23:21 -0400",
+      "minecraft:enderman": "2018-03-31 15:21:32 -0400",
+      "minecraft:stray": "2018-05-20 14:37:48 -0400",
       "minecraft:zombie": "2018-01-05 15:09:13 -0500",
       "minecraft:drowned": "2018-09-21 20:39:18 -0400",
       "minecraft:zombie_villager": "2017-10-21 14:11:43 -0400"
@@ -1169,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2019-12-28 17:44:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-01-05 15:34:45 -0500"
@@ -1331,6 +1343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2019-12-23 17:36:48 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-01-04 14:25:05 -0500"
@@ -1352,6 +1370,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2019-12-11 14:44:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-12-25 17:41:10 -0500"
     },
     "done": true
   },
@@ -1460,6 +1484,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2017-10-14 14:04:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-12-25 17:41:10 -0500"
     },
     "done": true
   },
@@ -1785,12 +1815,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2018-10-06 10:27:27 -0400",
       "minecraft:jungle_edge": "2018-10-06 10:33:42 -0400",
+      "minecraft:cold_ocean": "2018-10-06 10:27:27 -0400",
       "minecraft:snowy_mountains": "2019-02-20 13:43:40 -0500",
-      "minecraft:forest": "2017-10-14 13:29:55 -0400",
-      "minecraft:mountains": "2017-12-17 10:33:20 -0500",
       "minecraft:badlands_plateau": "2019-10-26 16:08:28 -0400",
+      "minecraft:mountains": "2017-12-17 10:33:20 -0500",
+      "minecraft:forest": "2017-10-14 13:29:55 -0400",
       "minecraft:taiga": "2017-10-14 13:29:01 -0400",
       "minecraft:desert_hills": "2018-06-09 17:12:54 -0400",
       "minecraft:giant_tree_taiga": "2018-09-23 20:35:18 -0400",
@@ -1811,15 +1841,15 @@
       "minecraft:savanna_plateau": "2018-10-06 10:32:40 -0400",
       "minecraft:beach": "2017-10-14 13:37:13 -0400",
       "minecraft:dark_forest": "2018-05-27 15:55:31 -0400",
-      "minecraft:lukewarm_ocean": "2018-09-17 23:35:56 -0400",
       "minecraft:river": "2017-10-14 13:31:04 -0400",
+      "minecraft:lukewarm_ocean": "2018-09-17 23:35:56 -0400",
       "minecraft:snowy_taiga": "2018-10-06 15:50:09 -0400",
       "minecraft:birch_forest_hills": "2018-01-05 16:51:30 -0500",
-      "minecraft:bamboo_jungle_hills": "2019-01-12 13:15:59 -0500",
       "minecraft:wooded_mountains": "2017-12-17 10:33:16 -0500",
+      "minecraft:bamboo_jungle_hills": "2019-01-12 13:15:59 -0500",
       "minecraft:wooded_hills": "2018-06-02 14:22:03 -0400",
-      "minecraft:giant_tree_taiga_hills": "2018-09-23 20:31:28 -0400",
       "minecraft:stone_shore": "2017-12-17 10:33:40 -0500",
+      "minecraft:giant_tree_taiga_hills": "2018-09-23 20:31:28 -0400",
       "minecraft:wooded_badlands_plateau": "2019-02-20 14:02:00 -0500",
       "minecraft:swamp": "2017-10-14 13:31:30 -0400",
       "minecraft:snowy_taiga_hills": "2019-02-20 13:47:58 -0500",
@@ -1861,6 +1891,12 @@
   "minecraft:recipes/misc/lapis_from_smelting": {
     "criteria": {
       "has_lapis_ore": "2019-01-12 11:22:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-12-25 17:41:10 -0500"
     },
     "done": true
   },
@@ -2921,7 +2957,8 @@
       "minecraft:turtle": "2018-09-15 23:54:21 -0400",
       "minecraft:ocelot": "2018-09-15 23:51:49 -0400",
       "minecraft:cow": "2019-07-01 11:26:00 -0400",
-      "minecraft:horse": "2018-09-16 00:08:37 -0400"
+      "minecraft:horse": "2018-09-16 00:08:37 -0400",
+      "minecraft:bee": "2019-12-17 16:37:58 -0500"
     },
     "done": false
   },
@@ -3543,6 +3580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2019-12-24 16:53:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2018-09-15 18:27:43 -0400"
@@ -3651,9 +3694,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2019-12-30 17:37:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2019-04-20 14:11:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2019-12-27 21:05:17 -0500"
     },
     "done": true
   },
@@ -4259,7 +4314,10 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/tabby.png": "2019-12-25 23:11:58 -0500",
+      "textures/entity/cat/white.png": "2019-12-25 22:55:34 -0500",
       "textures/entity/cat/jellie.png": "2019-05-10 12:22:49 -0400",
+      "textures/entity/cat/black.png": "2019-12-25 23:19:19 -0500",
       "textures/entity/cat/siamese.png": "2019-05-02 19:58:09 -0400",
       "textures/entity/cat/ragdoll.png": "2019-12-13 11:04:24 -0500",
       "textures/entity/cat/red.png": "2019-05-08 21:19:55 -0400",
@@ -4399,5 +4457,5 @@
     },
     "done": true
   },
-  "DataVersion": 2226
+  "DataVersion": 2227
 }
