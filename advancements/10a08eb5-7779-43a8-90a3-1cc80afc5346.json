@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "main:main/vwh": {
+    "criteria": {
+      "tick": "2019-12-14 17:37:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2019-06-22 19:53:34 -0400"
@@ -563,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2019-12-12 11:52:58 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2019-04-19 20:28:22 -0400"
@@ -656,6 +668,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-02-11 11:07:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2019-12-16 14:01:38 -0500"
     },
     "done": true
   },
@@ -925,8 +943,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2019-01-07 12:20:07 -0500",
       "minecraft:blaze": "2018-09-18 19:59:00 -0400",
+      "minecraft:pillager": "2019-01-07 12:20:07 -0500",
       "minecraft:skeleton": "2018-01-05 16:50:10 -0500",
       "minecraft:zombie_pigman": "2018-09-16 12:29:23 -0400",
       "minecraft:ravager": "2019-01-04 14:08:08 -0500",
@@ -936,17 +954,17 @@
       "minecraft:magma_cube": "2018-09-16 12:33:53 -0400",
       "minecraft:spider": "2017-10-21 13:41:27 -0400",
       "minecraft:creeper": "2017-10-14 13:31:24 -0400",
-      "minecraft:evoker": "2018-05-20 16:19:28 -0400",
       "minecraft:slime": "2018-05-04 14:00:06 -0400",
+      "minecraft:evoker": "2018-05-20 16:19:28 -0400",
       "minecraft:phantom": "2018-10-03 15:21:10 -0400",
       "minecraft:witch": "2018-09-21 20:39:25 -0400",
       "minecraft:wither_skeleton": "2018-09-23 18:58:06 -0400",
       "minecraft:husk": "2018-05-20 16:19:05 -0400",
       "minecraft:shulker": "2017-12-03 16:08:18 -0500",
       "minecraft:cave_spider": "2019-10-30 20:43:18 -0400",
-      "minecraft:silverfish": "2018-09-30 13:23:21 -0400",
-      "minecraft:enderman": "2018-03-31 15:21:32 -0400",
       "minecraft:stray": "2018-05-20 14:37:48 -0400",
+      "minecraft:enderman": "2018-03-31 15:21:32 -0400",
+      "minecraft:silverfish": "2018-09-30 13:23:21 -0400",
       "minecraft:zombie": "2018-01-05 15:09:13 -0500",
       "minecraft:drowned": "2018-09-21 20:39:18 -0400",
       "minecraft:zombie_villager": "2017-10-21 14:11:43 -0400"
@@ -1286,6 +1304,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2018-01-05 15:34:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2019-12-12 14:36:49 -0500"
     },
     "done": true
   },
@@ -1761,12 +1785,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2018-10-06 10:33:42 -0400",
       "minecraft:cold_ocean": "2018-10-06 10:27:27 -0400",
+      "minecraft:jungle_edge": "2018-10-06 10:33:42 -0400",
       "minecraft:snowy_mountains": "2019-02-20 13:43:40 -0500",
-      "minecraft:badlands_plateau": "2019-10-26 16:08:28 -0400",
-      "minecraft:mountains": "2017-12-17 10:33:20 -0500",
       "minecraft:forest": "2017-10-14 13:29:55 -0400",
+      "minecraft:mountains": "2017-12-17 10:33:20 -0500",
+      "minecraft:badlands_plateau": "2019-10-26 16:08:28 -0400",
       "minecraft:taiga": "2017-10-14 13:29:01 -0400",
       "minecraft:desert_hills": "2018-06-09 17:12:54 -0400",
       "minecraft:giant_tree_taiga": "2018-09-23 20:35:18 -0400",
@@ -1787,15 +1811,15 @@
       "minecraft:savanna_plateau": "2018-10-06 10:32:40 -0400",
       "minecraft:beach": "2017-10-14 13:37:13 -0400",
       "minecraft:dark_forest": "2018-05-27 15:55:31 -0400",
-      "minecraft:river": "2017-10-14 13:31:04 -0400",
       "minecraft:lukewarm_ocean": "2018-09-17 23:35:56 -0400",
+      "minecraft:river": "2017-10-14 13:31:04 -0400",
       "minecraft:snowy_taiga": "2018-10-06 15:50:09 -0400",
       "minecraft:birch_forest_hills": "2018-01-05 16:51:30 -0500",
-      "minecraft:wooded_mountains": "2017-12-17 10:33:16 -0500",
       "minecraft:bamboo_jungle_hills": "2019-01-12 13:15:59 -0500",
+      "minecraft:wooded_mountains": "2017-12-17 10:33:16 -0500",
       "minecraft:wooded_hills": "2018-06-02 14:22:03 -0400",
-      "minecraft:stone_shore": "2017-12-17 10:33:40 -0500",
       "minecraft:giant_tree_taiga_hills": "2018-09-23 20:31:28 -0400",
+      "minecraft:stone_shore": "2017-12-17 10:33:40 -0500",
       "minecraft:wooded_badlands_plateau": "2019-02-20 14:02:00 -0500",
       "minecraft:swamp": "2017-10-14 13:31:30 -0400",
       "minecraft:snowy_taiga_hills": "2019-02-20 13:47:58 -0500",
@@ -2095,6 +2119,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_shovel": "2018-08-14 11:15:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2019-12-15 17:38:49 -0500"
     },
     "done": true
   },
@@ -2491,6 +2521,12 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2019-06-30 16:07:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2019-12-15 12:43:26 -0500"
     },
     "done": true
   },
@@ -3096,6 +3132,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2019-03-30 18:11:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2019-12-15 17:38:49 -0500"
     },
     "done": true
   },
@@ -3909,6 +3951,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2019-12-12 17:08:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2019-04-19 20:28:16 -0400"
@@ -4213,6 +4261,7 @@
     "criteria": {
       "textures/entity/cat/jellie.png": "2019-05-10 12:22:49 -0400",
       "textures/entity/cat/siamese.png": "2019-05-02 19:58:09 -0400",
+      "textures/entity/cat/ragdoll.png": "2019-12-13 11:04:24 -0500",
       "textures/entity/cat/red.png": "2019-05-08 21:19:55 -0400",
       "textures/entity/cat/calico.png": "2019-11-01 20:46:56 -0400"
     },
@@ -4350,5 +4399,5 @@
     },
     "done": true
   },
-  "DataVersion": 2225
+  "DataVersion": 2226
 }
