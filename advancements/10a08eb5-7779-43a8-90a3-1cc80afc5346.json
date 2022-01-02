@@ -913,6 +913,7 @@
       "minecraft:wither_skeleton": "2018-09-23 18:58:06 -0400",
       "minecraft:husk": "2018-05-20 16:19:05 -0400",
       "minecraft:shulker": "2017-12-03 16:08:18 -0500",
+      "minecraft:cave_spider": "2019-10-30 20:43:18 -0400",
       "minecraft:stray": "2018-05-20 14:37:48 -0400",
       "minecraft:enderman": "2018-03-31 15:21:32 -0400",
       "minecraft:silverfish": "2018-09-30 13:23:21 -0400",
@@ -920,7 +921,7 @@
       "minecraft:drowned": "2018-09-21 20:39:18 -0400",
       "minecraft:zombie_villager": "2017-10-21 14:11:43 -0400"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
@@ -1693,6 +1694,7 @@
       "minecraft:snowy_mountains": "2019-02-20 13:43:40 -0500",
       "minecraft:forest": "2017-10-14 13:29:55 -0400",
       "minecraft:mountains": "2017-12-17 10:33:20 -0500",
+      "minecraft:badlands_plateau": "2019-10-26 16:08:28 -0400",
       "minecraft:taiga": "2017-10-14 13:29:01 -0400",
       "minecraft:desert_hills": "2018-06-09 17:12:54 -0400",
       "minecraft:giant_tree_taiga": "2018-09-23 20:35:18 -0400",
@@ -4063,7 +4065,8 @@
     "criteria": {
       "textures/entity/cat/jellie.png": "2019-05-10 12:22:49 -0400",
       "textures/entity/cat/siamese.png": "2019-05-02 19:58:09 -0400",
-      "textures/entity/cat/red.png": "2019-05-08 21:19:55 -0400"
+      "textures/entity/cat/red.png": "2019-05-08 21:19:55 -0400",
+      "textures/entity/cat/calico.png": "2019-11-01 20:46:56 -0400"
     },
     "done": false
   },
